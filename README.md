@@ -1,9 +1,8 @@
 # DSB
-D'Avanzo Sorrentino Brescia repository
-<<<<<<< Updated upstream
-=======
 
-🧩 Component 1: Gusto
+D'Avanzo Sorrentino Brescia repository
+
+ Component 1: Gusto
 
 Classe base sviluppata da D'Avanzo.  
 Contiene attributi privati (`_nome`, `_prezzo_base`, `_allergeni`) con getter/setter e il metodo `descrizione()` per mostrare le info del gusto.  
@@ -19,10 +18,8 @@ Creazione sottoclasse GustoVegano(Gusto) anche essa eredita gli attributi dalla 
 l'attributo base vegetale. Anche qui è stato definito un metodo descrizione vegano che ci mostra sempre la descrizione base ma aggiungendo appunto base vegetale
 
 Component 3:
+
 Sviluppato da Antonio Brescia
-<<<<<<< Updated upstream
-Creazione classe MenuGelateria gestisce l'elenco dei gusti dispponibili, permette di aggiungere un gusto, rimuoverlo tramite il nome e visualizzare l'intero menu
->>>>>>> Stashed changes
 =======
 Creazione classe MenuGelateria gestisce l'elenco dei gusti dispponibili, permette di aggiungere un gusto, rimuoverlo tramite il nome e visualizzare l'intero menu
->>>>>>> Stashed changes
+

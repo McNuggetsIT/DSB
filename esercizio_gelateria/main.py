@@ -1,8 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
 from moduli.gusto import Gusto
 from moduli.menugelateria import MenuGelateria
 from moduli.sottoclassi import GustoPremium , GustoVegano
@@ -72,4 +67,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> Stashed changes

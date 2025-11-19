@@ -16,3 +16,7 @@ Inoltre è stato definito un metodo descrizione premium che ci mostra la descriz
 
 Creazione sottoclasse GustoVegano(Gusto) anche essa eredita gli attributi dalla classe padre Gusto , aggiungedoci però
 l'attributo base vegetale. Anche qui è stato definito un metodo descrizione vegano che ci mostra sempre la descrizione base ma aggiungendo appunto base vegetale
+
+Component 3:
+
+Creazione classe MenuGelateria gestisce l'elenco dei gusti dispponibili, permette di aggiungere un gusto, rimuoverlo tramite il nome e visualizzare l'intero menu

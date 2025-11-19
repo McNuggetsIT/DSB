@@ -20,5 +20,9 @@ l'attributo base vegetale. Anche qui è stato definito un metodo descrizione veg
 
 Component 3:
 Sviluppato da Antonio Brescia
+<<<<<<< Updated upstream
+Creazione classe MenuGelateria gestisce l'elenco dei gusti dispponibili, permette di aggiungere un gusto, rimuoverlo tramite il nome e visualizzare l'intero menu
+>>>>>>> Stashed changes
+=======
 Creazione classe MenuGelateria gestisce l'elenco dei gusti dispponibili, permette di aggiungere un gusto, rimuoverlo tramite il nome e visualizzare l'intero menu
 >>>>>>> Stashed changes

@@ -26,5 +26,5 @@ class Gusto:
             self._allrg = n_allrg
             
     def descrizione(self):
-        allergeni_str = ", ".join(self._allergeni) if self._allergeni else "Nessuno"
-        return f"Gusto: {self._nome} | Prezzo: €{self._prezzo_base:.2f} | Allergeni: {allergeni_str}"
+        allergeni_str = ", ".join(self._allrg) if self._allrg else "Nessuno"
+        return f"Gusto: {self._nome} | Prezzo: €{self._prezzo:.2f} | Allergeni: {allergeni_str}"
